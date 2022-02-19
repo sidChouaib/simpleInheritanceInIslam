@@ -51,8 +51,6 @@ double maleshares, femaleshares;
 
     }
 
-    // manich nesma3 fik
-
 
     public void calculateInheritance(){
     int maleNbr, femaleNbr;
